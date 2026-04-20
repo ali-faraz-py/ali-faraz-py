@@ -31,7 +31,7 @@ I specialize in building intelligent applications that turn complex data into ac
 
 ### 📫 Let's Connect!
 * **Upwork:** [https://www.upwork.com/freelancers/~017cd21f872163dffa?mp_source=share]
-* **LinkedIn:** [www.linkedin.com/in/syed-m-ali-faraz-827458267]
+* **LinkedIn:** [www.linkedin.com/in/syed-m-ali-faraz]
 * **Portfolio:** [https://ali-faraz-ml.streamlit.app/]
 
 *"A good developer isn't just someone who knows how to write code; a good developer is one who understands the mathematics behind it."*
