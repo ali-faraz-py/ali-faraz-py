@@ -1,20 +1,20 @@
 # Hi there, I'm Syed M. Ali Faraz 👋
 
 ### 🚀 Python Developer | Machine Learning & Data Science
-I specialize in building intelligent applications that turn complex data into actionable insights. From predictive modeling to real-time web deployment, I bridge the gap between AI research and functional software.
+I specialize in the **mathematical transformation** of high-dimensional data into **predictive intelligence**. My work focuses on engineering complex feature sets, optimizing **stochastic models**, and developing deep learning architectures. I am dedicated to building high-integrity systems rooted in **statistical validation** and rigorous algorithmic logic.
 
 ---
 
 ### 🛠️ What I Do
-* **Machine Learning:** Building and training Deep Learning models (Bi-LSTM, CNNs) using **TensorFlow** and **Keras**.
-* **Data Science:** Data cleaning, visualization, and statistical analysis with **Pandas**, **NumPy**, and **Matplotlib**.
-* **Web Deployment:** Transforming AI models into interactive web apps using **Streamlit**.
-* **Freelance Solutions:** Providing custom Python scripts and automation for business problems.
+* **Machine Learning:** Engineering complex feature sets and optimizing **supervised learning pipelines** to identify non-linear patterns.
+* **Deep Learning & NLP:** Architecting sentiment analysis engines by **fine-tuning Transformer-based models** and implementing **Transfer Learning** to achieve high-precision text classification.
+* **Transfer Learning:** Leveraging and fine-tuning pre-trained models (Transformers/BERT) to accelerate high-accuracy classification.
+* **Statistical Validation:** Ensuring model integrity through rigorous testing, confusion matrices, and mathematical logic.
 
 ---
 
 ### 🧪 Current Projects
-* **[IMDB Sentiment AI](https://github.com/ali-faraz-py/SentimentSense):** A Deep Learning web app that classifies movie reviews with 87% accuracy using Bidirectional LSTMs.
+* **[Sentiment Sense](https://github.com/ali-faraz-py/SentimentSense):** A Deep Learning web app that classifies movie reviews with 87% accuracy using Bidirectional LSTMs.
 * **[AetherQuant](https://github.com/ali-faraz-py/SentimentSense):** A financial tool for stock sentiment analysis and price tracking.
 * **[Diabetes Detector](https://github.com/ali-faraz-py/DiabetesDetector):** A Random Forest classifier with a streamlined GUI for medical diagnostics.
 
