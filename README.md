@@ -1,6 +1,6 @@
 # Hi there, I'm Syed M. Ali Faraz 👋
 
-### 🚀 Python Developer | Machine Learning & Computer Vision
+### 🚀 Python Developer | Machine Learning & Data Science
 I specialize in the **mathematical transformation** of high-dimensional data into **predictive intelligence**. My work focuses on engineering complex feature sets, optimizing **stochastic models**, and architecting deep learning systems. I am dedicated to building high-integrity applications rooted in **statistical validation** and rigorous algorithmic logic.
 
 ---
@@ -9,6 +9,7 @@ I specialize in the **mathematical transformation** of high-dimensional data int
 * **Computer Vision:** Implementing **Deep Residual Learning** (ResNet) to perform high-precision image classification and feature extraction.
 * **Natural Language Processing:** Architecting sentiment analysis engines by **fine-tuning Transformer-based models** and Bidirectional LSTMs for complex text classification.
 * **Machine Learning Pipelines:** Optimizing **Random Forest** and Ensemble methods with rigorous data imputation and statistical scaling.
+* **Transfer Learning:** Leveraging and fine-tuning pre-trained models (Transformers/BERT) to accelerate high-accuracy classification.
 * **Mathematical Validation:** Ensuring model integrity through confusion matrices, precision-recall analysis, and probabilistic scoring.
 
 ---
