@@ -17,6 +17,7 @@ I specialize in the **mathematical transformation** of high-dimensional data int
 * **[NeuralLens](https://github.com/ali-faraz-py/NeuralLens):** A high-performance Computer Vision engine using **ResNet50** to identify over 1,000 object categories with probabilistic precision.
 * **[Sentiment Sense](https://github.com/ali-faraz-py/SentimentSense):** A Deep Learning web app that classifies movie reviews with 87% accuracy using **Bidirectional LSTMs**.
 * **[Diabetes Detector](https://github.com/ali-faraz-py/DiabetesDetector):** A medical diagnostic tool utilizing a **Random Forest Classifier** to predict health outcomes based on clinical metrics.
+* * **[AetherQuant](https://github.com/ali-faraz-py/SentimentSense):** A financial tool for stock sentiment analysis and price tracking.
 
 ---
 
