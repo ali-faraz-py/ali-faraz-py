@@ -41,7 +41,7 @@ I build complete, deployed AI applications — from model training through to pr
 
 ### 📫 Let's Connect
 
-- **Portfolio:** [Portfolio Hub](https://portfolio-kbaub2rhq-ali-faraz-pys-projects.vercel.app/)
+- **Portfolio:** [Portfolio Hub](https://portfolio-hub-dusky.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/syed-m-ali-faraz](https://www.linkedin.com/in/syed-m-ali-faraz)
 - **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~017cd21f872163dffa)
 
