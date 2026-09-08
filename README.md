@@ -1,6 +1,6 @@
 # Hi, I'm Syed M. Ali Faraz 👋
 ### Python Developer | Machine Learning Engineer
-I build complete, deployed AI applications — from model training through to production APIs and web interfaces. My work spans computer vision, NLP, retrieval-augmented generation, and classical ML, with a focus on shipping working systems, not just notebooks.
+I build complete, deployed AI applications, from model training through to production APIs and web interfaces. My work spans computer vision, NLP, retrieval-augmented generation, and classical ML, with a focus on shipping working systems, not just notebooks.
 ---
 ### 🛠️ What I Do
 - **Computer Vision:** Deepfake detection, image classification, and neural style transfer using EfficientNet, ResNet50, and VGG19.
@@ -9,12 +9,12 @@ I build complete, deployed AI applications — from model training through to pr
 - **Full-Stack Deployment:** FastAPI backends, Next.js/React frontends, deployed on Vercel and Render.
 ---
 ### 🧪 Featured Projects
-- **[CodexQuery](https://github.com/ali-faraz-py/CodexQuery)** — A RAG chatbot that answers questions about my own repositories, grounded in the actual code and docs, with citations back to the source file and line range. FastAPI + Next.js, Groq for generation, fastembed + numpy for retrieval.
-- **[Deepfake Detector](https://github.com/ali-faraz-py/deepfake-detector)** — Classifies uploaded face images and video as real or AI-generated, with a confidence score. Trained an EfficientNet-B0 model on 100k+ images; full-stack app with a FastAPI backend and Next.js frontend, deployed on Render + Vercel.
-- **[NeuralLens](https://github.com/ali-faraz-py/NeuralLens)** — A ResNet50-powered image classification app supporting real-time recognition across 1,000+ object categories.
-- **[SentimentSense](https://github.com/ali-faraz-py/SentimentSense)** — An NLP dashboard performing aspect-based sentiment analysis using DistilBERT and zero-shot classification.
-- **[Diabetes Detector](https://github.com/ali-faraz-py/DiabetesDetector)** — A diagnostic tool using a Random Forest Classifier to predict diabetes risk from clinical metrics, with a FastAPI backend and Next.js frontend.
-- **[AetherQuant](https://github.com/ali-faraz-py/AetherQuant)** — A crypto market trend classifier using XGBoost, analyzing technical indicators via live market data.
+- **[CodexQuery](https://codex-query.vercel.app/)** — A RAG chatbot that answers questions about my own repositories, grounded in the actual code and docs, with citations back to the source file and line range. FastAPI + Next.js, Groq for generation, fastembed + numpy for retrieval.
+- **[Deepfake Detector](https://deepfake-detector-olive.vercel.app/)** — Classifies uploaded face images and video as real or AI-generated, with a confidence score. Trained an EfficientNet-B0 model on 100k+ images; full-stack app with a FastAPI backend and Next.js frontend, deployed on Render + Vercel.
+- **[NeuralLens](https://neural-lens-nine.vercel.app/)** — A ResNet50-powered image classification app supporting real-time recognition across 1,000+ object categories.
+- **[SentimentSense](https://sentiment-sense-ai.streamlit.app/)** — An NLP dashboard performing aspect-based sentiment analysis using DistilBERT and zero-shot classification.
+- **[Diabetes Detector](https://diabetes-detector.vercel.app/)** — A diagnostic tool using a Random Forest Classifier to predict diabetes risk from clinical metrics, with a FastAPI backend and Next.js frontend.
+- **[AetherQuant](https://aether-quant.streamlit.app/)** — A crypto market trend classifier using XGBoost, analyzing technical indicators via live market data.
 ---
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
