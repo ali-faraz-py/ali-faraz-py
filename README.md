@@ -14,7 +14,7 @@ I build complete, deployed AI applications, from model training through to produ
 - **[NeuralLens](https://neural-lens-nine.vercel.app/)** — A ResNet50-powered image classification app supporting real-time recognition across 1,000+ object categories.
 - **[SentimentSense](https://sentiment-sense-ai.streamlit.app/)** — An NLP dashboard performing aspect-based sentiment analysis using DistilBERT and zero-shot classification.
 - **[Diabetes Detector](https://diabetes-detector.vercel.app/)** — A diagnostic tool using a Random Forest Classifier to predict diabetes risk from clinical metrics, with a FastAPI backend and Next.js frontend.
-- **[AetherQuant](https://aether-quant.streamlit.app/)** — A crypto market trend classifier using XGBoost, analyzing technical indicators via live market data.
+- **[AetherQuant](https://aether-quant-blush.vercel.app/)** — A crypto market trend classifier using XGBoost, analyzing technical indicators via live market data.
 ---
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
